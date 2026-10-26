@@ -2,7 +2,7 @@
 - 👀 I’m a physicist who is interested in data science and machine learning.
 - 🌱 I’m currently learning data science and machine learning 
 - 💞️ I’m looking to collaborate on machine learning and AI based projects.
-- 📫 You can reach me at hadi@wishpond.com
+- 📫 You can reach me at mhadiazari@gmail.com
 
 <!---
 mohazari/mohazari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
